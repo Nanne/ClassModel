@@ -6,6 +6,9 @@ Simonyan, K., Vedaldi, A., & Zisserman, A. (2013). Deep Inside Convolutional Net
 
 Code partially based on https://github.com/torch/nn/blob/master/Sequential.lua
 
-'Install' by placing it in the same dir as both files from: https://github.com/e-lab/torch7-demos/tree/master/train-a-digit-classifier
+Examples
+--------
 
-Then train the digit classifier and run the class model with '-network logs/mnist.net'.
+Mnist example requires files from: https://github.com/e-lab/torch7-demos/tree/master/train-a-digit-classifier
+
+Train the digit classifier and run the 'learnclassmodel.lua' with '-network logs/mnist.net'.

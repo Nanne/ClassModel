@@ -2,7 +2,7 @@ dataset-mnist.lua
 train-on-mnist.lua
 
 images/
-
+build/
 logs/
 
 *.th7
